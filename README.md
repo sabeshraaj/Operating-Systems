@@ -33,8 +33,8 @@ This repository contains code regarding **Disk Scheduling, CPU Scheduling, Page 
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
+git clone https://github.com/sabeshraaj/Operating-Systems.git
+cd Operating Systems
 ```
 
 ### Compile and Run
