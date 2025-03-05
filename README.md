@@ -1,6 +1,6 @@
 # Disk, CPU Scheduling, Page Replacement, and Direct Memory Access Algorithms
 
-Welcome to the **Disk Scheduling, CPU Scheduling, Page Replacement, and Direct Memory Access (DMA) Algorithms** repository! 🚀 This repository contains implementations of fundamental operating system algorithms used for process scheduling, memory management, and disk operations.
+This repository contains code regarding **Disk Scheduling, CPU Scheduling, Page Replacement, and Direct Memory Access (DMA) Algorithms** . This repository contains implementations of fundamental operating system algorithms used for process scheduling, memory management, and disk operations.
 
 ## 📌 Features
 
